@@ -4,5 +4,18 @@
   "artist": "Miro",
   "author": "Decaspell",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1759613608",
+      "groups": {
+        "CatUA | Ліниві котики": [
+          "https://cdn.imgchest.com/files/65d9da043a08.jpg",
+          "https://cdn.imgchest.com/files/a9b3c922e9e8.jpg",
+          "https://cdn.imgchest.com/files/aa8ad7430f55.jpg"
+        ]
+      }
+    }
+  }
 }
